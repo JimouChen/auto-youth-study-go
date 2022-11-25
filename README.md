@@ -3,7 +3,7 @@
 - 广东省青年大学习自动完成go版本☕️
 
 # 🚀使用方法
-## 命令行运行
+## 💻命令行运行
 - `git clone https://github.com/JimouChen/auto-youth-study-go.git`
 - `cd auto-youth-study-go`
 - `go mod tidy`
@@ -19,7 +19,7 @@
 # 🧑🏻‍💻作者
 - [@JimouChen/Neaya](https://github.com/JimouChen)
 
-# link
+# 🔗link
 - [Python版本的在这里](https://github.com/JimouChen/auto-youth-study)
 - [原理](https://github.com/JimouChen/auto-youth-study)
 - 或则自己放在Github Actions定时运行也可
